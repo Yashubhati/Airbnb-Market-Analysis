@@ -1,2 +1,5 @@
 # Airbnb-Market-Analysis
-Airbnb Market Analysis: Pricing, Host Performance &amp; Business Insights
+## Airbnb Market Intelligence & Revenue Optimization Analysis
+End-to-End Airbnb Market Analysis: Pricing, Host Performance &amp; Business Insights
+
+--
